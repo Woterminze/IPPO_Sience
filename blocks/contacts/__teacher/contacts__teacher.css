@@ -1,0 +1,11 @@
+.contacts__teacher { 
+  margin-right:60px;
+}
+
+.contacts__teacher:nth-child(5){
+    margin-right:13px;
+}
+
+.contacts__teacher:nth-child(2){
+  margin-left:13px;
+}

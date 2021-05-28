@@ -1,0 +1,14 @@
+.direction__text { 
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom:10px;
+    margin-top:10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.direction__text:nth-child(2) {
+    margin-top:10px;
+}
