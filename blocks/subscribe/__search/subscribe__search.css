@@ -14,3 +14,14 @@
     flex-direction: column;
   }
 }
+
+input {
+  border: none;
+  outline: none;
+  text-overflow: ellipsis;
+}
+
+input :active, :hover, :focus {
+  outline: 0;
+  outline-offset: 0;
+}
